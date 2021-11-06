@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "name": "Gimy",
+      "pic": "https://github.com/FongMi/FreeDTV/raw/main/image/gimy.png",
+      "ads": "",
+      "webUrl": "https://gimytv.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "小鴨影音",
+      "pic": "https://github.com/FongMi/FreeDTV/raw/main/image/777tv.png",
+      "ads": "",
+      "webUrl": "https://777tv.app/",
+      "webOpen": true,
+      "click": true
+    }
+  ]
+}
