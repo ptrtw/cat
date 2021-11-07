@@ -2,6 +2,13 @@
   "spider": "https://github.com/catvod/CatVodTVSpider/raw/master/jar/custom_spider.jar",
   "sites": [
     {
+      "key": "百度雲",
+      "name": "百度雲",
+      "type": 0,
+      "api": "https://m3u8.apibdzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+    },
+    {
       "key": "快播雲",
       "name": "快播雲",
       "type": 0,
