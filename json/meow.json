@@ -7,6 +7,9 @@
       "type":0,
       "api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "playUrl":""
+      "categories":[
+        
+      ]
     },
     {
       "key":"快播雲",
